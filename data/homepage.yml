@@ -2,9 +2,8 @@
 banner:
   enable : true
   bg_image: "images/inicio.png"
-  title : "Amor De<br>Origen"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-            dolore magna aliqua."
+  title : "I Need Something To<br>Put Right Here"
+  content : "Also Right Here. Something Memorable and Short"
   button:
     enable : false
     label : "Our Works"
@@ -12,7 +11,7 @@ banner:
 
 ################### Service #################################
 service:
-  enable : true
+  enable : false
   bg_image : "images/shape-big.png"
   subtitle : "What We Do"
   title : "Design Is How<br>Things Work"
@@ -44,7 +43,7 @@ portfolio:
 
 ############################ testimonial ###########################
 testimonial:
-  enable : true
+  enable : false
   subtitle : "Testimonials"
   title : "LoveQuote <br> From Clients"
   testimonial_item:
