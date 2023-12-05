@@ -3,7 +3,7 @@ banner:
   enable : true
   bg_image: "images/inicio.png"
   title : "Café De<br>Especialidad"
-  content : "I Need Something To Put Right Here. Something Memorable and Short"
+  content : "Por Amor al café de las pequeñas fincas Mexicanas, a la tierra, y a las manos que la trabajan."
   button:
     enable : false
     label : "Our Works"
