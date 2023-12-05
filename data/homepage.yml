@@ -2,7 +2,7 @@
 banner:
   enable : true
   bg_image: "images/inicio.png"
-  title : "CAFÉ DE ESPECIALIDAD"
+  title : "Café De<br>Especialidad"
   content : "I Need Something To Put Right Here. Something Memorable and Short"
   button:
     enable : false
@@ -69,9 +69,9 @@ testimonial:
 ################# call to action ##################################3
 call_to_action:
   enable : true
-  title : "Interseted In Teaming Up?"
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus asperiores dignissimos cupiditate! Necessitatibus distinctio molestiae omnis tempora facere in cum?"
+  title : "Contact Us"
+  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus asperiores dignissimos cupiditate! Necessitatibus distinctio molestiae omnis tempora?"
   button:
     enable : true
-    label : "Let's Chat"
+    label : "Contact Us"
     link : "contact"
