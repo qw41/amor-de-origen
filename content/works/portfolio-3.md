@@ -3,8 +3,10 @@ title: "Café de Veracruz"
 date: 2019-08-29T15:38:38+06:00
 draft: false
 image: "images/portfolios/portfolio-3.jpg"
-company: "El productor Joasis Juárez, es propietario de la finca El Encanto, la cual se localiza en la comunidad de Acayotla Veracruz, al norte de la ciudad de Córdoba, a una altura de 1,400 metros sobre el nivel del mar. <br>
-Este grano tiene un proceso Red Honey, que da como resultado un café muy dulce, con notas que nos recuerdan a las frutas cítricas. Las variedades del grano son: caturra y garnica. <br>
+company: "El productor Joasis Juárez, es propietario de la finca El Encanto, la cual se localiza en la comunidad de Acayotla Veracruz, al norte de la ciudad de Córdoba, a una altura de 1,400 metros sobre el nivel del mar.
+<br>
+Este grano tiene un proceso Red Honey, que da como resultado un café muy dulce, con notas que nos recuerdan a las frutas cítricas. Las variedades del grano son: caturra y garnica.
+<br>
 En el proceso Honey, la cereza recolectada se despulpa y se deja con parte del mucílago, el cual es una capa con alto contenido de azúcares. Posteriormente, durante la fase de secado, los azúcares penetran en el grano, aportando mayor dulzor y acidez. Este proceso hace que el café aporte sabores más complejos en taza. "
 client: "Julia Robertson"
 client: "Julia Robertson"
