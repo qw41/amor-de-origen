@@ -3,10 +3,8 @@ title: "Café de Chiapas"
 date: 2019-08-29T15:38:38+06:00
 draft: false
 image: "images/portfolios/portfolio-1.jpg"
-company: "Nuestro café lavado proviene de la comunidad El Pacayal, finca Morelia, la cual es propiedad de la familia Camposeco. Se encuentra en la frontera con Guatemala, rodeada por abundante naturaleza, y con lluvias durante todo el año.
-
-Con una altura superior a los 1,600 metros sobre el nivel del mar, el grano adquiere notas frutales que nos recuerdan a la naranja y al durazno. Las principales variedades del grano son: bourbon, catuaí, oro azteca, geisha y márago.
-
+company: "Nuestro café lavado proviene de la comunidad El Pacayal, finca Morelia, la cual es propiedad de la familia Camposeco. Se encuentra en la frontera con Guatemala, rodeada por abundante naturaleza, y con lluvias durante todo el año. <br>
+Con una altura superior a los 1,600 metros sobre el nivel del mar, el grano adquiere notas frutales que nos recuerdan a la naranja y al durazno. Las principales variedades del grano son: bourbon, catuaí, oro azteca, geisha y márago. <br>
 Al consumir este café, no solo apoyas al desarrollo de esta comunidad en la sierra chiapaneca, sino que además contribuyes a seguir dando trabajo a familias de Guatemala que también son empleadas."
 client: "Julia Robertson"
 category: "Investment, Business"
