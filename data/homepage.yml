@@ -2,8 +2,8 @@
 banner:
   enable : true
   bg_image: "images/inicio.png"
-  title : "I Need Something To<br>Put Right Here"
-  content : "Also Right Here. Something Memorable and Short"
+  title : "CAFÉ DE ESPECIALIDAD"
+  content : "I Need Something To Put Right Here. Something Memorable and Short"
   button:
     enable : false
     label : "Our Works"
@@ -35,8 +35,8 @@ service:
 ############################# portfolio ############################
 portfolio:
   enable : true
-  subtitle : "Portfolio"
-  title : "Our Recent Works"
+  subtitle : ""
+  title : "Conócenos"
 
   # portfolio item comes from `content/work/` folder
 

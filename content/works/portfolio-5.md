@@ -1,7 +1,7 @@
 ---
 title: "Fullstack"
 date: 2019-08-29T15:38:38+06:00
-draft: false
+draft: true
 image: "images/portfolios/portfolio-5.jpg"
 company: "Absolut Inc."
 client: "Julia Robertson"
