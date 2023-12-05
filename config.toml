@@ -48,7 +48,7 @@ author = "Themefisher"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 # footer content
-footer_content = "@ 2023 Amor De Origen <br> Todos los derechos reservados"
+footer_content = "@ 2023 <i>Amor De Origen<i> <br> Todos Los Derechos Reservados."
 
 # google map
 [params.map]
