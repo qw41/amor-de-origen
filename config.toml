@@ -1,7 +1,7 @@
 ######################## default configuration ####################
 baseURL = "https://examplesite.com"
 languageCode = "en-us"
-title = "Icelab Studio"
+title = "Amor De Origen"
 theme = "icelab-hugo"
 summaryLength = "10"
 
@@ -40,7 +40,7 @@ weight = 4
 
 #################### default parameters ##############################
 [params]
-logo = "images/logo.png"
+logo = "Amor De Origen" #"images/logo.png"
 home = "Home"
 # Meta data
 description = "This is meta description"

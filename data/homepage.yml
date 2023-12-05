@@ -1,12 +1,12 @@
 ######################## Banner ############################
 banner:
   enable : true
-  bg_image: "images/hero/hero-bg-2.jpg"
-  title : "Creative<br>Studio"
+  bg_image: "images/inicio.png"
+  title : "Amor De<br>Origen"
   content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
             dolore magna aliqua."
   button:
-    enable : true
+    enable : false
     label : "Our Works"
     link : "works"
 
