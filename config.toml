@@ -59,15 +59,15 @@ map_longitude = "-0.1622023"
 map_marker = "images/marker.png"
 
 ############################# social site ########################
-[[params.social]]
-name = "facebook"
-icon = "fa-facebook" # fontawesome icon pack v4.7
-link = "#"
+#[[params.social]]
+# name = "facebook"
+# icon = "fa-facebook" # fontawesome icon pack v4.7
+# link = "#"
 
-[[params.social]]
-name = "twitter"
-icon = "fa-twitter" # fontawesome icon pack v4.7
-link = "#"
+#[[params.social]]
+#name = "twitter"
+#icon = "fa-twitter" # fontawesome icon pack v4.7
+#link = "#"
 
 [[params.social]]
 name = "instagram"
