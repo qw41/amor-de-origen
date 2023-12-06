@@ -5,7 +5,6 @@ draft: false
 image: "images/portfolios/portfolio-1.jpg"
 company: "Nuestro café lavado proviene de la comunidad El Pacayal, finca Morelia, la cual es propiedad de la familia Camposeco. Se encuentra en la frontera con Guatemala, rodeada por abundante naturaleza, y con lluvias durante todo el año.
 
-
 Con una altura superior a los 1,600 metros sobre el nivel del mar, el grano adquiere notas frutales que nos recuerdan a la naranja y al durazno. Las principales variedades del grano son: bourbon, catuaí, oro azteca, geisha y márago.
 
 

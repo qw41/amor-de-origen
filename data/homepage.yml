@@ -70,8 +70,8 @@ testimonial:
 call_to_action:
   enable : true
   title : "Contacto"
-  content : "## Email: <br> [cafeamordeorigen@gmail.com](cafeamordeorigen@gmail.com)"
+  content : "**Email:** <br> [cafeamordeorigen@gmail.com](cafeamordeorigen@gmail.com) <br> **Instagram:** [cafeamordeorigen@gmail.com](cafeamordeorigen@gmail.com)"
   button:
-    enable : true
+    enable : false
     label : "Contacto"
     link : "contact"
