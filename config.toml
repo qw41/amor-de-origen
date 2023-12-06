@@ -43,7 +43,7 @@ weight = 4
 logo = "images/logo.png"
 home = "Home"
 # Meta data
-description = "cafe"
+description = ""
 author = ""
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
