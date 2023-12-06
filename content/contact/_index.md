@@ -8,8 +8,8 @@ draft: false
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore agna liqua fina water.
 
-#* Tel. : +880 1672 506 744
+// * Tel. : +880 1672 506 744
 * Email : cafeamordeorigen@gmail.com
-#* Skype : Mehedi Sharif Titas
-#* Whatsapp : +880 1672 506 744
-#* Address : Shyamoli, Dhaka.
+// * Skype : Mehedi Sharif Titas
+// * Whatsapp : +880 1672 506 744
+// * Address : Shyamoli, Dhaka.
