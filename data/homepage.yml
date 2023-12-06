@@ -69,7 +69,7 @@ testimonial:
 ################# call to action ##################################3
 call_to_action:
   enable : true
-  title : "Contacto"
+  title : "Contact"
   content : "## Email: <br> <a href="cafeamordeorigen@gmail.com">cafeamordeorigen@gmail.com</a>"
   button:
     enable : true
