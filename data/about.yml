@@ -1,6 +1,6 @@
 #########################3 history ############################
 history:
-  enable : true
+  enable : false
   image: "images/history-image.png"
   subtitle : "History"
   title : "Give us a task & <br> we'll implement it"
@@ -12,7 +12,7 @@ history:
 
 ################################ Team ###########################
 team:
-  enable : true
+  enable : false
   subtitle : "Our Strenght"
   title : "Meet Our Team"
   team_member:
@@ -37,7 +37,7 @@ team:
 
 ############################### philosophy ###########################
 philosophy:
-  enable : true
+  enable : false
   subtitle : "Philosophy"
   title : "We design for human, So user first"
   image : "images/philosophy-image.jpg"
@@ -49,7 +49,7 @@ philosophy:
 
 ############################ Clients ################################
 clients:
-  enable : true
+  enable : false
   subtitle : "Our Clients"
   title : "They Trust Us"
   clients_logo:
