@@ -1,9 +1,9 @@
 ---
-title: "test"
+title: "Foto: Finca Morelia, El Pacayal, Chiapas"
 date: 2019-08-29T15:38:38+06:00
 draft: false
 image: "images/portfolios/portfolio-4.jpg"
-company: "test"
+company: "Al consumir nuestro café, apoyas los pagos justos a los productores, que a la vez generan trabajo en comunidades de la sierra Chiapaneca"
 client: "Julia Robertson"
 category: "Investment, Business"
 location: "1201 park street, Avenue, Dhaka"
