@@ -1,9 +1,9 @@
 ---
-title: ""
+title: " "
 date: 2019-08-29T15:38:38+06:00
 draft: false
 image: "images/portfolios/portfolio-4.jpg"
-company: "test"
+company: ""
 client: "Julia Robertson"
 category: "Investment, Business"
 location: "1201 park street, Avenue, Dhaka"
