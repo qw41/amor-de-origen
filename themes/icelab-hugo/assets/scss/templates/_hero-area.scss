@@ -1,6 +1,6 @@
 .hero-area{
     position: relative;
-    background: rgba($color: $footer-bg, $alpha: .8);
+    background: rgba($color: $footer-bg, $alpha: .6); // This is the opacity, it was at .8
     height: 100vh;
     display: flex;
     align-items: center;
@@ -35,48 +35,6 @@
             font-weight: 500;
             line-height: 30px;
             margin-bottom: 45px;
-        }
-    }
-    .scroll-down{
-        position: absolute;
-        bottom: 120px;
-        left: 30px;
-        transform: rotate(-90deg);
-        @include desktop-lg{
-            left: 50%;
-            bottom: 30px;
-            transform: translateX(-50%) rotate(-90deg);
-        }
-        @include mobile{
-            display: none;
-        }
-        a{
-            position: relative;
-            color: $white;
-            font-size: 14px;
-            text-decoration: none;
-            i{
-                margin-right: 15px;
-            }
-            &:before{
-                position: absolute;
-                content: '';
-                background: rgba($color: $white, $alpha: .5);
-                width: 54px; height: 1px;
-                top: 50%;
-                transition: all 1s ease;
-                transform: translateY(-50%);
-                right: calc(-100% - 10px);
-                animation: dash-down 1s ease 1s infinite both;
-            }
-            @keyframes dash-down {
-                0%{
-                    width: 0;
-                }
-                100%{
-                    width: 54px;
-                }
-            }
         }
     }
     .social-links{

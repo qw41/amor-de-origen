@@ -1,14 +1,14 @@
 .footer{
     background: $footer-bg;
-    padding: 100px 0;
+    padding: 50px 0;
     position: relative;
     overflow: hidden;
     .footer-dividers{
         @extend .dividers;
         position: absolute;
-        height: 100%;
+        height: 1%;
         .divider{
-            height:100%;
+            height:1%;
             border-right: 1px solid #293034;
             &:first-child{
                 border-left: 1px solid #293034;
@@ -27,7 +27,7 @@
         }
     }
     .content{
-        text-align: right;
+        text-align: center;
         @include desktop{
             text-align: center;
         }
@@ -38,12 +38,12 @@
                     a{
                         padding: 0 25px;
                         color: $white;
-                        font-weight: 500; font-size: 14px;
+                        font-weight: 500; font-size: 15px;
                         text-decoration: none;
                     }
                     &:last-child{
                         a{
-                            padding: 0 0 0 25px;
+                            padding: 0 0 0 25px;                           
                         }
                     }
                 }
@@ -51,7 +51,7 @@
         }
         p{
             width: 70%;
-            font-size: 14px;
+            font-size: 16px;
             line-height: 25px;
             margin-bottom: 25px;
             margin-left: auto;
@@ -62,7 +62,7 @@
         ul.social-links{
             li{
                 a{
-                    background: $white;
+                    background: $primary-color;
                     border-radius: 100%;
                     display: block;
                     height: 35px;
@@ -70,8 +70,8 @@
                     transition: all .3s ease;
                     width: 35px;
                     i{
-                        color: #242424;
-                        font-size: 12px;
+                        color: #ffffff;
+                        font-size: 20px;
                         line-height: 35px;
                     }
                     &:hover{

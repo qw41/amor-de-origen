@@ -6,7 +6,7 @@ body{
 }
 
 .section{
-    padding: 100px 0;
+    padding: 40px 0; // changed this for the portfolio padding on top and bottom
     @include tablet{
         padding: 80px 0;
     }
@@ -43,7 +43,7 @@ body{
     .divider{
         border-right: 1px solid #f3f3f3;
         flex-basis: 25%;
-        height: 100vh;
+        height: 1vh; // This is what I changed to make the white lines go away. It was at 100.
         // opacity: .20;
         &:first-child{
             border-left: 1px solid #f3f3f3;

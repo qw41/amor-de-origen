@@ -23,25 +23,25 @@ URL = "plugins/plugins.js"
 
 ############################## navigation ###########################
 [[menu.main]]
-name = "About"
-URL = "about"
+name = "Nosotros"
+URL = "nosotros"
 weight = 2
 
 [[menu.main]]
-name = "Works"
-URL = "works"
+name = "Productos"
+URL = "productos"
 weight = 3
 
 [[menu.main]]
-name = "Contact"
-URL = "contact"
+name = "Contacto"
+URL = "contacto"
 weight = 4
 
 
 #################### default parameters ##############################
 [params]
 logo = "images/logo.png"
-home = "Home"
+home = "Inicio"
 # Meta data
 description = ""
 author = ""
@@ -73,3 +73,9 @@ map_marker = "images/marker.png"
 name = "instagram"
 icon = "fa-instagram" # fontawesome icon pack v4.7
 link = "https://www.instagram.com/cafeamordeorigen"
+
+[[params.social]]
+name = "email"
+icon = "fa-regular fa-envelope" # fontawesome icon pack v4.7
+link = "mailto:cafeamordeorigen@gmail.com"
+
