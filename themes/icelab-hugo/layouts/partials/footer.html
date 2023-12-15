@@ -19,7 +19,7 @@
           <div class="content">
             <nav class="footer-nav">
               <ul class="list-inline">
-                <li class="list-inline-item"><a href="{{ .Site.BaseURL }}">Home</a></li>
+                <li class="list-inline-item"><a href="{{ .Site.BaseURL }}">Inicio</a></li>
                 {{ range .Site.Menus.main }}
                 <li class="list-inline-item"><a href="{{ .URL | absURL }}">{{ .Name }}</a></li>
                 {{ end }}
@@ -31,11 +31,6 @@
               <li class="list-inline-item"><a href="{{ .link | safeURL }}" target="_blank"><i class="fa {{ .icon }}"></i></a></li>
               {{ end }}
             </ul>
-            <div class="scroll-top">
-              <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="6px"
-                height="40px">
-                <path fill-rule="evenodd"
-                  d="M6.000,-0.000 C6.000,-0.000 -0.000,13.621 -0.000,13.766 C-0.000,13.783 4.011,14.008 4.000,13.999 C3.959,13.968 4.000,40.131 4.000,39.999 L6.000,39.999 L6.000,-0.000 L6.000,-0.000 Z" />
               </svg>
             </div>
           </div>
